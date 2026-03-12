@@ -6,7 +6,7 @@
       "email": "vana@example.com",
       "phone": "0901234567",
       "avatar": null,
-      "birthday": "1995-03-12"
+      "dayOfBirth": "1995-03-12"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "email": "thib@example.com",
       "phone": "0912345678",
       "avatar": null,
-      "birthday": "1998-07-21"
+      "dayOfBirth": "1998-07-21"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "email": "vanc@example.com",
       "phone": "0923456789",
       "avatar": null,
-      "birthday": "1993-11-05"
+      "dayOfBirth": "1993-11-05"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "email": "thid@example.com",
       "phone": "0934567890",
       "avatar": null,
-      "birthday": "1997-01-18"
+      "dayOfBirth": "1997-01-18"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "email": "vane@example.com",
       "phone": "0945678901",
       "avatar": null,
-      "birthday": "1996-09-30"
+      "dayOfBirth": "1996-09-30"
     }
   ]
 }
