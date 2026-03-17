@@ -1,43 +1,44 @@
-[
- {
+{
+  "users": [
+    {
       "id": 1,
       "name": "Nguyen Van A",
       "email": "vana@example.com",
       "phone": "0901234567",
-      "avatar": "",
-      "dateOfBirth": "1995-03-12"
+      "avatar": null,
+      "dayOfBirth": "1995-03-12"
     },
     {
       "id": 2,
       "name": "Tran Thi B",
       "email": "thib@example.com",
       "phone": "0912345678",
-      "avatar": "",
-      "dateOfBirth": "1998-07-21"
+      "avatar": null,
+      "dayOfBirth": "1998-07-21"
     },
     {
       "id": 3,
       "name": "Le Van C",
       "email": "vanc@example.com",
       "phone": "0923456789",
-      "avatar": "",
-      "dateOfBirth": "1993-11-05"
+      "avatar": null,
+      "dayOfBirth": "1993-11-05"
     },
     {
       "id": 4,
       "name": "Pham Thi D",
       "email": "thid@example.com",
       "phone": "0934567890",
-      "avatar": "",
-      "dateOfBirth": "1997-01-18"
+      "avatar": null,
+      "dayOfBirth": "1997-01-18"
     },
     {
       "id": 5,
       "name": "Hoang Van E",
       "email": "vane@example.com",
       "phone": "0945678901",
-      "avatar": "",
-      "dateOfBirth": "1996-09-30"
+      "avatar": null,
+      "dayOfBirth": "1996-09-30"
     }
-  
-]
+  ]
+}
