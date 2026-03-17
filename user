@@ -1,5 +1,4 @@
-{
-  "users": [
+[
     {
       "id": 1,
       "name": "Nguyen Van A",
@@ -41,4 +40,3 @@
       "dayOfBirth": "1996-09-30"
     }
   ]
-}
