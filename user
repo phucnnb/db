@@ -1,5 +1,5 @@
-
-    {
+[
+ {
       "id": 1,
       "name": "Nguyen Van A",
       "email": "vana@example.com",
@@ -40,3 +40,4 @@
       "dayOfBirth": "1996-09-30"
     }
   
+]
