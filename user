@@ -4,7 +4,7 @@
       "name": "Nguyen Van A",
       "email": "vana@example.com",
       "phone": "0901234567",
-      "avatar": null,
+      "avatar": "",
       "dateOfBirth": "1995-03-12"
     },
     {
@@ -12,7 +12,7 @@
       "name": "Tran Thi B",
       "email": "thib@example.com",
       "phone": "0912345678",
-      "avatar": null,
+      "avatar": "",
       "dateOfBirth": "1998-07-21"
     },
     {
@@ -20,7 +20,7 @@
       "name": "Le Van C",
       "email": "vanc@example.com",
       "phone": "0923456789",
-      "avatar": null,
+      "avatar": "",
       "dateOfBirth": "1993-11-05"
     },
     {
@@ -28,7 +28,7 @@
       "name": "Pham Thi D",
       "email": "thid@example.com",
       "phone": "0934567890",
-      "avatar": null,
+      "avatar": "",
       "dateOfBirth": "1997-01-18"
     },
     {
@@ -36,7 +36,7 @@
       "name": "Hoang Van E",
       "email": "vane@example.com",
       "phone": "0945678901",
-      "avatar": null,
+      "avatar": "",
       "dateOfBirth": "1996-09-30"
     }
   
