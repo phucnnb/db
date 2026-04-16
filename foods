@@ -1,72 +1,72 @@
 {
   "data": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Beef Steak",
-      "price": 15.99,
+      "price": "15.99",
       "type": "Grilled",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Steak_frites.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Spaghetti Carbonara",
-      "price": 12.50,
+      "price": "12.50",
       "type": "Pasta",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Spaghetti_alla_Carbonara_%28cropped%29.jpg"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Margherita Pizza",
-      "price": 10.00,
+      "price": "10.00",
       "type": "Baked",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Pizza_Margherita_stu_spivack.jpg"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Caesar Salad",
-      "price": 8.75,
+      "price": "8.75",
       "type": "Salad",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Caesar_salad_%281%29.jpg"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Grilled Salmon",
-      "price": 17.25,
+      "price": "17.25",
       "type": "Seafood",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Grilled_salmon.jpg"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Chicken Alfredo",
-      "price": 13.99,
+      "price": "13.99",
       "type": "Pasta",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Fettuccine_Alfredo.jpg"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Lasagna",
-      "price": 14.50,
+      "price": "14.50",
       "type": "Baked",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Lasagna_%281%29.jpg"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Fish and Chips",
-      "price": 11.25,
+      "price": "11.25",
       "type": "Fried",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Fish_and_chips.jpg"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "French Onion Soup",
-      "price": 9.50,
+      "price": "9.50",
       "type": "Soup",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/French_onion_soup.jpg"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Tiramisu",
-      "price": 7.00,
+      "price": "7.00",
       "type": "Dessert",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tiramisu_%281%29.jpg"
     }
