@@ -5,70 +5,70 @@
       "name": "Beef Steak",
       "price": "15.99",
       "type": "Grilled",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Steak_frites.jpg"
+      "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947"
     },
     {
       "id": "2",
       "name": "Spaghetti Carbonara",
       "price": "12.50",
       "type": "Pasta",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Spaghetti_alla_Carbonara_%28cropped%29.jpg"
+      "image_url": "https://images.unsplash.com/photo-1608756687911-aa1599ab3bd9"
     },
     {
       "id": "3",
       "name": "Margherita Pizza",
       "price": "10.00",
       "type": "Baked",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Pizza_Margherita_stu_spivack.jpg"
+      "image_url": "https://images.unsplash.com/photo-1601924582975-7e6f1c3f5d3b"
     },
     {
       "id": "4",
       "name": "Caesar Salad",
       "price": "8.75",
       "type": "Salad",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Caesar_salad_%281%29.jpg"
+      "image_url": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9"
     },
     {
       "id": "5",
       "name": "Grilled Salmon",
       "price": "17.25",
       "type": "Seafood",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Grilled_salmon.jpg"
+      "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
     },
     {
       "id": "6",
       "name": "Chicken Alfredo",
       "price": "13.99",
       "type": "Pasta",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Fettuccine_Alfredo.jpg"
+      "image_url": "https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5"
     },
     {
       "id": "7",
       "name": "Lasagna",
       "price": "14.50",
       "type": "Baked",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Lasagna_%281%29.jpg"
+      "image_url": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d"
     },
     {
       "id": "8",
       "name": "Fish and Chips",
       "price": "11.25",
       "type": "Fried",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Fish_and_chips.jpg"
+      "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349"
     },
     {
       "id": "9",
       "name": "French Onion Soup",
       "price": "9.50",
       "type": "Soup",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/French_onion_soup.jpg"
+      "image_url": "https://images.unsplash.com/photo-1604908177522-040d3f74c3f9"
     },
     {
       "id": "10",
       "name": "Tiramisu",
       "price": "7.00",
       "type": "Dessert",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tiramisu_%281%29.jpg"
+      "image_url": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9"
     }
   ]
 }
