@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "Tech Talk Daily",
+      "host": "John Smith",
+      "imageUrl": "https://picsum.photos/seed/podcast1/300/300"
+    },
+    {
+      "id": "2",
+      "title": "Mindset Mastery",
+      "host": "Emma Johnson",
+      "imageUrl": "https://picsum.photos/seed/podcast2/300/300"
+    },
+    {
+      "id": "3",
+      "title": "Business Breakthrough",
+      "host": "Michael Lee",
+      "imageUrl": "https://picsum.photos/seed/podcast3/300/300"
+    },
+    {
+      "id": "4",
+      "title": "Health & Habit",
+      "host": "Sarah Brown",
+      "imageUrl": "https://picsum.photos/seed/podcast4/300/300"
+    },
+    {
+      "id": "5",
+      "title": "Code & Coffee",
+      "host": "David Wilson",
+      "imageUrl": "https://picsum.photos/seed/podcast5/300/300"
+    },
+    {
+      "id": "6",
+      "title": "Startup Stories",
+      "host": "Anna Taylor",
+      "imageUrl": "https://picsum.photos/seed/podcast6/300/300"
+    },
+    {
+      "id": "7",
+      "title": "AI Revolution",
+      "host": "Chris Martin",
+      "imageUrl": "https://picsum.photos/seed/podcast7/300/300"
+    },
+    {
+      "id": "8",
+      "title": "Sports Weekly",
+      "host": "James Anderson",
+      "imageUrl": "https://picsum.photos/seed/podcast8/300/300"
+    },
+    {
+      "id": "9",
+      "title": "History Unfolded",
+      "host": "Olivia Clark",
+      "imageUrl": "https://picsum.photos/seed/podcast9/300/300"
+    },
+    {
+      "id": "10",
+      "title": "Relax & Sleep",
+      "host": "Liam Scott",
+      "imageUrl": "https://picsum.photos/seed/podcast10/300/300"
+    }
+  ]
+}
