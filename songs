@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "Blinding Lights",
+      "singer": "The Weeknd",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5c1c8f3f3c2b7b3f1c8a2a1"
+    },
+    {
+      "id": "2",
+      "title": "Shape of You",
+      "singer": "Ed Sheeran",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba7c5b9c1c2a3f1e2d4b5c6d"
+    },
+    {
+      "id": "3",
+      "title": "Rolling in the Deep",
+      "singer": "Adele",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c1d2e3f4a5b6c7d8e9f0a1b2"
+    },
+    {
+      "id": "4",
+      "title": "Someone Like You",
+      "singer": "Adele",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1e2f3a4b5c6d7e8f9a0b1c2"
+    },
+    {
+      "id": "5",
+      "title": "Levitating",
+      "singer": "Dua Lipa",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1f2a3b4c5d6e7f8a9b0c1d2"
+    },
+    {
+      "id": "6",
+      "title": "Stay",
+      "singer": "The Kid LAROI, Justin Bieber",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1a2b3c4d5e6f7a8b9c0d1e2"
+    },
+    {
+      "id": "7",
+      "title": "Bad Guy",
+      "singer": "Billie Eilish",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1b2c3d4e5f6a7b8c9d0e1f2"
+    },
+    {
+      "id": "8",
+      "title": "Peaches",
+      "singer": "Justin Bieber",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1c2d3e4f5a6b7c8d9e0f1a2"
+    },
+    {
+      "id": "9",
+      "title": "Perfect",
+      "singer": "Ed Sheeran",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2d3e4f5a6b7c8d9e0f1a2b3"
+    },
+    {
+      "id": "10",
+      "title": "Happier",
+      "singer": "Marshmello, Bastille",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3e4f5a6b7c8d9e0f1a2b3c4"
+    }
+  ]
+}
