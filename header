@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "id": "1", "name": "All" },
+    { "id": "2", "name": "Pop" },
+    { "id": "3", "name": "Rock" },
+    { "id": "4", "name": "Hip Hop" },
+    { "id": "5", "name": "Jazz" },
+    { "id": "6", "name": "Classical" },
+    { "id": "7", "name": "R&B" },
+    { "id": "8", "name": "EDM" },
+    { "id": "9", "name": "Country" },
+    { "id": "10", "name": "Indie" }
+  ]
+}
