@@ -4,61 +4,61 @@
       "id": "1",
       "title": "Anti-Hero",
       "singer": "Taylor Swift",
-      "imageUrl": "https://picsum.photos/seed/song1/300/300"
+      "image_url": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=300&h=300&fit=crop"
     },
     {
       "id": "2",
       "title": "Flowers",
       "singer": "Miley Cyrus",
-      "imageUrl": "https://picsum.photos/seed/song2/300/300"
+      "image_url": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2?w=300&h=300&fit=crop"
     },
     {
       "id": "3",
       "title": "As It Was",
       "singer": "Harry Styles",
-      "imageUrl": "https://picsum.photos/seed/song3/300/300"
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=300&h=300&fit=crop"
     },
     {
       "id": "4",
       "title": "Unholy",
       "singer": "Sam Smith, Kim Petras",
-      "imageUrl": "https://picsum.photos/seed/song4/300/300"
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=300&h=300&fit=crop"
     },
     {
       "id": "5",
       "title": "Ghost",
       "singer": "Justin Bieber",
-      "imageUrl": "https://picsum.photos/seed/song5/300/300"
+      "image_url": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=300&h=300&fit=crop"
     },
     {
       "id": "6",
       "title": "Die For You",
       "singer": "The Weeknd",
-      "imageUrl": "https://picsum.photos/seed/song6/300/300"
+      "image_url": "https://images.unsplash.com/photo-1485579149621-3123dd979885?w=300&h=300&fit=crop"
     },
     {
       "id": "7",
       "title": "Industry Baby",
       "singer": "Lil Nas X, Jack Harlow",
-      "imageUrl": "https://picsum.photos/seed/song7/300/300"
+      "image_url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=300&h=300&fit=crop"
     },
     {
       "id": "8",
       "title": "Calm Down",
       "singer": "Rema, Selena Gomez",
-      "imageUrl": "https://picsum.photos/seed/song8/300/300"
+      "image_url": "https://images.unsplash.com/photo-1464375117522-1311dd6d0cd1?w=300&h=300&fit=crop"
     },
     {
       "id": "9",
       "title": "Heat Waves",
       "singer": "Glass Animals",
-      "imageUrl": "https://picsum.photos/seed/song9/300/300"
+      "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=300&h=300&fit=crop"
     },
     {
       "id": "10",
       "title": "Unstoppable",
       "singer": "Sia",
-      "imageUrl": "https://picsum.photos/seed/song10/300/300"
+      "image_url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop"
     }
   ]
 }
